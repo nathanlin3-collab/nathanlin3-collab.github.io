@@ -27,10 +27,33 @@
 <p class="attribution">"<a rel="noopener noreferrer" href="https://commons.wikimedia.org/w/index.php?curid=99462577">Grand Canyon - Buddha Temple</a>" by nate hill is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse">CC BY-SA 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
    
   <p> Located deep within the Grand Cayon, this unique rock formation was named "Buddha Temple" due to its prominent shape. </p>
-  
+<h2> The East Rim </h2> 
+<img width="716" height="1024" alt="image" src="https://github.com/user-attachments/assets/4a4dc3eb-0e52-4da3-bc77-c9820f0ba25b" />
+<p class="attribution">"<a rel="noopener noreferrer" href="https://www.flickr.com/photos/50693818@N08/6195340521">Grand Canyon National Park: Marble Canyon - Colorado River</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/50693818@N08">Grand Canyon NPS</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
 
-<p> https://www.nps.gov/grca/index.htm </p>
+<p> This section of the Colorado River flows through the East Rim of the Grand Canyon, which includes the famous "Horseshoe Bend".</p>
+<h5> "Horseshoe Bend" </h5>
+<img width="1024" height="624" alt="image" src="https://github.com/user-attachments/assets/e3137889-d17b-40e1-b06f-4a2fb82ab045" />
+<p class="attribution">"<a rel="noopener noreferrer" href="https://www.flickr.com/photos/60359963@N00/21979426629">Horseshoe Bend</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/60359963@N00">Laenulfean</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse">CC BY-SA 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
+
+<p> "Horseshoe Bend" is one of the most unique spots in the Grand Canyon where the Colorado River winds around rocky walls in a 270 degree turn! </p>
+
+<h2> The West Rim </h2>
+<img width="1024" height="776" alt="image" src="https://github.com/user-attachments/assets/28ebb0e2-47ee-4224-b39b-7cd863a23620" />
+<p class="attribution">"<a rel="noopener noreferrer" href="https://www.flickr.com/photos/126397594@N03/23614723132">USA (Grand Canyon, AZ) Skywalk at the west rim of canyon. Horse-shaped bridge with a glass walkway above about 2000 ft of bottom.</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/126397594@N03">ustung</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
+
+<p> The West Rim of the Grand Canyon is famous for its astonishing glass-bottom skywalk that allows visitors to gain the view and experience of a lifetime! </p>
+<h5> Eagle Point </h5>
+<img width="800" height="527" alt="image" src="https://github.com/user-attachments/assets/7ded8aeb-1e66-4337-a446-2c937b22f225" />
+<p class="attribution">"<a rel="noopener noreferrer" href="https://commons.wikimedia.org/w/index.php?curid=3879502">EagleRock</a>" by Julius Reque is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/3.0/?ref=openverse">CC BY-SA 3.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
+
+<p> Embedded in the Grand Canyon, Eagle Point is a popular tourist attraction in the West Rim where a rock formation resembling an eagle can be found etched into the majestic and rocky walls. </p>
+
+
+<p> This link provides more information on the Grand Canyon for those who are intersted: https://www.nps.gov/grca/index.htm </p>
  </body>
+
+ <h2> Thank You for Your Interest in the Grand Canyon! </h2>
 
 
 
