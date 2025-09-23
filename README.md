@@ -50,31 +50,9 @@
 <p> Embedded in the Grand Canyon, Eagle Point is a popular tourist attraction in the West Rim where a rock formation resembling an eagle can be found etched into the majestic and rocky walls. </p>
 
 
-<p> This link provides more information on the Grand Canyon for those who are intersted: https://www.nps.gov/grca/index.htm </p>
+<p> This link provides more information on the Grand Canyon for those who are interested: https://www.nps.gov/grca/index.htm </p>
  </body>
 
  <h2> Thank You for Your Interest in the Grand Canyon! </h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </html>
