@@ -26,6 +26,7 @@
 <p class="attribution">"<a rel="noopener noreferrer" href="https://commons.wikimedia.org/w/index.php?curid=99462577">Grand Canyon - Buddha Temple</a>" by nate hill is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse">CC BY-SA 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
    
   <p> Located deep within the Grand Cayon, this unique rock formation was named "Buddha Temple" due to its prominent shape. </p>
+  
 
 <p> https://www.nps.gov/grca/index.htm </p>
  </body>
