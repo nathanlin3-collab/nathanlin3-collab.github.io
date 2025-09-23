@@ -5,7 +5,13 @@
   <img width="1024" height="357" alt="image" src="https://github.com/user-attachments/assets/e37682da-b38c-4846-abfb-4e0b76e3b357" />
   
   <p> This beautiful scenery comes from the North Rim of the Grand Canyon. This region is found at a high elevation and contains a unique ecosystem with meadows and forests. </p>
-<h2> "Buddha Temple" </h2>
+
+<h2> The South Rim </h2>
+<img width="1024" height="471" alt="image" src="https://github.com/user-attachments/assets/84b9cd1c-e7bd-4932-bacc-64bfe4bf5797" />
+
+<p> This deep part of the Grand Canyon contains some of the most stunning scenery in the entire region including "Buddha Temple". </p>
+
+<h3> "Buddha Temple" </h3>
  <img width="387" height="246" alt="Screenshot 2025-09-23 at 11-55-50 Grand Canyon - Buddha Temple Openverse" src="https://github.com/user-attachments/assets/db3ea44f-26ae-4e31-9364-39ae90ca75b4" />
    
   <p> Located deep within the Grand Cayon, this unique rock formation was named "Buddha Temple" due to its prominent shape. </p>
