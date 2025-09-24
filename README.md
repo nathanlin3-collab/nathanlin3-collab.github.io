@@ -44,8 +44,8 @@
 
 <p> The West Rim of the Grand Canyon is famous for its astonishing glass-bottom skywalk that allows visitors to gain the view and experience of a lifetime! </p>
 <h5> Eagle Point </h5>
-<img width="800" height="527" alt="image" src="https://github.com/user-attachments/assets/7ded8aeb-1e66-4337-a446-2c937b22f225" />
-<p class="attribution">"<a rel="noopener noreferrer" href="https://commons.wikimedia.org/w/index.php?curid=3879502">EagleRock</a>" by Julius Reque is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/3.0/?ref=openverse">CC BY-SA 3.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
+<img width="1023" height="682" alt="image" src="https://github.com/user-attachments/assets/44ffe1f3-798f-4841-b876-9ba98f24ed68" />
+<p class="attribution">"<a rel="noopener noreferrer" href="https://www.flickr.com/photos/26673904@N00/8114513488">Eagle Point Grand Canyon West</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/26673904@N00">big-ashb</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
 
 <p> Embedded in the Grand Canyon, Eagle Point is a popular tourist attraction in the West Rim where a rock formation resembling an eagle can be found etched into the majestic and rocky walls. </p>
 
