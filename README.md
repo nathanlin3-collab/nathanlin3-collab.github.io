@@ -8,9 +8,7 @@
   <h2> The North Rim </h2>
     <img width="641" height="445" alt="image" src="https://github.com/user-attachments/assets/97ddf71f-975b-40f6-95d3-790662e2f9f3" />
 <p class="attribution">"<a rel="noopener noreferrer" href="https://www.flickr.com/photos/130967827@N03/34820535830">Grand Canyon North Rim</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/130967827@N03">usareisetipps</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse">CC BY-SA 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
-#div1 {
-border-radius: 25px;
-}
+
   
   <p> This beautiful scenery comes from the North Rim of the Grand Canyon. This region is found at a high elevation and contains a unique ecosystem with meadows and forests. </p>
 <h5> Bright Angel Point </h5>
