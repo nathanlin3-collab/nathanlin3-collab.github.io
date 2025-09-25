@@ -1,6 +1,6 @@
 <DOCTYPE html>
 <html>
-  <title> The Grand Canyon </title>
+  <b> <title> The Grand Canyon </title> </b>
   <head>
   <h1> The Grand Canyon </h1>
     </head>
