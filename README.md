@@ -55,7 +55,7 @@
 
 
 
-<p> This link provides more information on the Grand Canyon for those who are interested: https://www.nps.gov/grca/index.htm </p>
+<p> This link provides more information on the Grand Canyon for those who are interested: <a href="https://www.nps.gov/grca/index.htm ">https://www.nps.gov/grca/index.htm </a></p>
  </body>
 
  <h2> Thank You for Your Interest in the Grand Canyon! </h2>
